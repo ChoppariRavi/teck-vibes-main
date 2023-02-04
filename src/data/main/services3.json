@@ -1,0 +1,23 @@
+[
+  {
+    "icon": "pe-7s-mouse",
+    "title": "Staffing Services",
+    "solidColor": "#dbffeb",
+    "color": "green",
+    "details": "Staffing a project in a client location need not be very complex. Teck Vibes makes the hiring process simple by removing the complexities out of the hiring process and ensures that clients have access to right talent and right people at affordable cost and price."
+  },
+  {
+    "icon": "pe-7s-airplay",
+    "title": "Independent Projects",
+    "solidColor": "#ffdbdb",
+    "color": "red",
+    "details": "Teck Vibes is open to work with end clients and vendors on independent projects at affordable price. If you have a project or requirement and looking to get it done end to end, feel free to get in touch and we are happy to partner with you and be part of your success story."
+  },
+  {
+    "icon": "pe-7s-news-paper",
+    "title": "Training Services",
+    "solidColor": "#dbdeff",
+    "color": "blue",
+    "details": "Are you a new college graduate looking for getting trained in some of the latest technologies, Are you an experienced candidate looking to enhance your skillset and in watch out for any training programs, or are you client looking to train your team on Some of missing skillset in your organization."
+  }
+]

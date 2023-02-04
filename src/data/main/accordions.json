@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Refer a working professional",
+    "details": "If you are an experienced professional requiring help to land in your next dream job or if you are looking for a friendly employer to support your work status, feel free to get in touch and we are more than happy in help you. If you do not need these services but know of someone else requiring these services, please feel free to refer the person and earn perks for each referral.",
+    "closed": false
+  },
+  {
+    "id": 2,
+    "title": "Refer a Client",
+    "details": "f you know of a client willing to work with Teck Vibes, feel free to refer and earn perks based on the total business done with the client after the initial agreement. Please fill out the form below and a representative from Teck Vibes will be in touch with you.",
+    "closed": true
+  },
+  {
+    "id": 3,
+    "title": "Refer New College Graduate",
+    "details": "Are you a new college graduate looking for learning some of the newest technologies and requiring help in finding the right job, please feel free to get in touch and Teck Vibes will be glad to help you out with the required skillset and provide you with a right breakthrough in your career?",
+    "closed": true
+  },
+  {
+    "id": 4,
+    "title": "Bring your own candidate",
+    "details": "If you are an independent Staffing professional and looking for a company to work with you on a partnership model for placing and staffing the right talent at client locations, feel free to get in touch with Teck Vibes and one of the representatives will be in touch with you. We have different partnership models that can benefit you and Teck Vibes in full filling the client needs.",
+    "closed": true
+  }
+]
